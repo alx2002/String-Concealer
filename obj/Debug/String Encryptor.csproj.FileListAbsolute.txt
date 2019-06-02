@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\String Encryptor\bin\Debug\String Encryptor.exe.config
+C:\Users\Alex\source\repos\String Encryptor\bin\Debug\String Encryptor.exe
+C:\Users\Alex\source\repos\String Encryptor\bin\Debug\String Encryptor.pdb
+C:\Users\Alex\source\repos\String Encryptor\obj\Debug\String Encryptor.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\String Encryptor\obj\Debug\String Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\String Encryptor\obj\Debug\String Encryptor.exe
+C:\Users\Alex\source\repos\String Encryptor\obj\Debug\String Encryptor.pdb
